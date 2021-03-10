@@ -1,9 +1,9 @@
 # AVR
 **Projetos de baixo nivel com Atmel328p**
 
-Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados
-cada subdiretório contém uma biblioteca mais umaprova de conceito de uma funcionalidade básica se um sistema embarcado
-ao final deste projeto todas as biblioteca serão reunidas num só framework 
+Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
+cada subdiretório contém uma biblioteca mais umaprova de conceito de uma funcionalidade básica se um sistema embarcado;
+Ao final deste projeto todas as biblioteca serão reunidas num só framework 
 
 Atualmente o porjeto conta com
 - [x] IO de portas digitais
