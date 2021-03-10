@@ -16,7 +16,7 @@ Atualmente o porjeto conta com
 - [ ] Kernel
 
 
-## Videos dos projetos
+## Vídeos dos projetos
 > - IO:  https://www.youtube.com/watch?v=IS5MIF0gM9Y
 > - RGB: https://www.youtube.com/watch?v=fydgfV9knUA
 > - Motor: https://www.youtube.com/watch?v=56Pg4UlAeZs
