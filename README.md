@@ -2,10 +2,10 @@
 **Projetos de baixo nivel com Atmel328p**
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
-cada subdiretório contém uma biblioteca mais umaprova de conceito de uma funcionalidade básica se um sistema embarcado;
+cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado;
 Ao final deste projeto todas as biblioteca serão reunidas num só framework 
 
-Atualmente o porjeto conta com
+Atualmente o projeto conta com
 - [x] IO de portas digitais
 - [ ] Comunicação Serial
 - [ ] Portas ADC
