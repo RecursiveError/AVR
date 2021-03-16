@@ -20,3 +20,4 @@ Atualmente o projeto conta com
 > - IO:  https://www.youtube.com/watch?v=IS5MIF0gM9Y
 > - RGB: https://www.youtube.com/watch?v=fydgfV9knUA
 > - Motor: https://www.youtube.com/watch?v=56Pg4UlAeZs
+> - Disp: https://www.youtube.com/watch?v=LtMCkzgFJTE
