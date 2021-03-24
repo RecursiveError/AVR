@@ -21,3 +21,4 @@ Atualmente o projeto conta com
 > - RGB: https://www.youtube.com/watch?v=fydgfV9knUA
 > - Motor: https://www.youtube.com/watch?v=56Pg4UlAeZs
 > - Disp: https://www.youtube.com/watch?v=LtMCkzgFJTE
+> - LCD: https://www.youtube.com/watch?v=zkkNk1EBBPY
