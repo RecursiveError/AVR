@@ -22,3 +22,4 @@ Atualmente o projeto conta com
 > - Motor: https://www.youtube.com/watch?v=56Pg4UlAeZs
 > - Disp: https://www.youtube.com/watch?v=LtMCkzgFJTE
 > - LCD: https://www.youtube.com/watch?v=zkkNk1EBBPY
+> - keypad: https://www.youtube.com/watch?v=1YmLfUYxb0M
