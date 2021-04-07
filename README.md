@@ -24,6 +24,7 @@ Atualmente o projeto conta com
 > - LCD: https://www.youtube.com/watch?v=zkkNk1EBBPY
 > - keypad: https://www.youtube.com/watch?v=1YmLfUYxb0M
 > - Console: https://www.youtube.com/watch?v=JzjXAL53uFY
+#### Projeto final de IO: https://github.com/RecursiveError/595LCD
 
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
