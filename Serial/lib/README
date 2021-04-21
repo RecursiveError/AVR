@@ -1,0 +1,5 @@
+lib para a comunicação Serial
+Esse programa é baseado no datasheet do atmel328p
+
+Não é um softserial, pois esse tema envolve interrupções e timers que não são temas
+do topico de comunicação
