@@ -6,7 +6,8 @@ cada subdiretório contém uma biblioteca mais uma prova de conceito de uma func
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
-- [ ] Comunicação Serial
+ 
+- [x] Comunicação Serial
 - [ ] Portas ADC
 - [ ] Portas PMW
 - [ ] Timers
@@ -26,6 +27,9 @@ Atualmente o projeto conta com
 > - Console: https://www.youtube.com/watch?v=JzjXAL53uFY
 #### Projeto final de IO: https://github.com/RecursiveError/595LCD
 
+### Comunicação Serial
+> - Serial: https://www.youtube.com/watch?v=xhvO6p-LsEw
+
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
@@ -33,5 +37,6 @@ para mim mesmo e para outros que possam estar lendo isso
 - cada topico conta com um projeto final, que será criado apos o termino dele
 - "Console" marca o fim do topico IO
 - Os projetos finais vão ter repositórios próprios 
-- a ideia de criar um framework apos terminar todos os topicos esta em analise
-
+- Nenhuma lib do tópico de Comunicação Serial sera via software, pois isso envolve temas como Interrupções e Timers
+- Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (I2C, USART, SPI)
+- USART será o foco dos exemplos, os outros protocolos teram apenas suas provas de conceito
