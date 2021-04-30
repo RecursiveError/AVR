@@ -38,5 +38,5 @@ para mim mesmo e para outros que possam estar lendo isso
 - "Console" marca o fim do topico IO
 - Os projetos finais vão ter repositórios próprios 
 - Nenhuma lib do tópico de Comunicação Serial sera via software, pois isso envolve temas como Interrupções e Timers
-- Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (I2C, USART, SPI)
+- Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (USART, SPI)[exceto i2c por falta de equipamento para teste]
 - USART será o foco dos exemplos, os outros protocolos teram apenas suas provas de conceito
