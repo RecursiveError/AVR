@@ -1,0 +1,8 @@
+Script simples para testar a comunicação serial
+
+Dependencias:
+pyserial 3.5
+
+
+
+
