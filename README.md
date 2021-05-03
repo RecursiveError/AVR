@@ -30,6 +30,7 @@ Atualmente o projeto conta com
 ### Comunicação Serial
 > - Serial: https://www.youtube.com/watch?v=xhvO6p-LsEw
 > - RGB_Serial: https://youtu.be/vqYLxVNObTk
+> - SerialLcd: https://youtu.be/RTHadXwnF90
 
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
