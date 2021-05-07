@@ -2,7 +2,8 @@
 **Projetos de baixo nivel com Atmel328p**
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
-cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado 
+cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
+**V 3.2.2**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -33,11 +34,14 @@ Atualmente o projeto conta com
 
 ### Portas ADC
 > - ADC: https://youtu.be/fZpCz_bOyFc
+> - ADC_comp: https://youtu.be/QP2Ig5rxqEo
 
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
 
+- agora marcarei a versão para facilitar a leitura desse documento
+- **[Topico atual].[projetos do topico].[mudaças ocasionais neste documento]**
 - cada topico conta com um projeto final, que será criado apos o termino dele
 - "Console" marca o fim do topico IO
 - Os projetos finais vão ter repositórios próprios 
