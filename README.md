@@ -6,9 +6,8 @@ cada subdiretório contém uma biblioteca mais uma prova de conceito de uma func
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
- 
 - [x] Comunicação Serial
-- [ ] Portas ADC
+- [x] Portas ADC
 - [ ] Portas PMW
 - [ ] Timers
 - [ ] Interrupções 
