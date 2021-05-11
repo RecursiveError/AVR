@@ -3,7 +3,7 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 3.2.2**
+**V 3.2.3**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -42,8 +42,8 @@ para mim mesmo e para outros que possam estar lendo isso
 
 - agora marcarei a versão para facilitar a leitura desse documento
 - **[Topico atual].[projetos do topico].[mudaças ocasionais neste documento]**
-- cada topico conta com um projeto final, que será criado apos o termino dele
-- "Console" marca o fim do topico IO
+- <s>cada topico conta com um projeto final, que será criado apos o termino dele</s>
+- os projetos finais vão envolver varios topicos
 - Os projetos finais vão ter repositórios próprios 
 - Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (USART, SPI)[exceto i2c por falta de equipamento para teste]
 - USART será o foco dos exemplos, os outros protocolos teram apenas suas provas de conceito
