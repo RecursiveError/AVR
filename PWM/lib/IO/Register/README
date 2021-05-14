@@ -1,0 +1,5 @@
+Autor: RecursiveError
+
+Header para o mapeamento dos perifericos do Atmel328p no Arduino uno.
+Apenas para estudo de sistemas embarcados
+são mapeados apenas os pinos de 1 a 13 do Arduino Uno
