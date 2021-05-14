@@ -3,13 +3,13 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 3.2.3**
+**V 4.0.0**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
 - [x] Comunicação Serial
 - [x] Portas ADC
-- [ ] Portas PMW
+- [x] Portas PWM
 - [ ] Timers
 - [ ] Interrupções 
 - [ ] Watchdogs
@@ -36,6 +36,9 @@ Atualmente o projeto conta com
 > - ADC: https://youtu.be/fZpCz_bOyFc
 > - ADC_comp: https://youtu.be/QP2Ig5rxqEo
 
+### Portas PWM
+> - PWM: https://youtu.be/opz_oydRdKY
+
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
@@ -43,7 +46,7 @@ para mim mesmo e para outros que possam estar lendo isso
 - agora marcarei a versão para facilitar a leitura desse documento
 - **[Topico atual].[projetos do topico].[mudaças ocasionais neste documento]**
 - <s>cada topico conta com um projeto final, que será criado apos o termino dele</s>
-- os projetos finais vão envolver varios topicos
+- os projetos finais vão envolver varios topicos caso sejam curtos
 - Os projetos finais vão ter repositórios próprios 
-- Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (USART, SPI)[exceto i2c por falta de equipamento para teste]
+- Comunicação Serial só terá os protocolos existentes no hardware do Atmel328p (USART, SPI, I2C)
 - USART será o foco dos exemplos, os outros protocolos teram apenas suas provas de conceito
