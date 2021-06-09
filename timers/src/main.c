@@ -7,6 +7,8 @@ Programa simples para testar  Timers do Atmel328p
 #include <avr/interrupt.h>
 #include <adc.h>
 
+unsigned int adc_filter(unsigned char canal);
+
 //OCRxA COMPARAÇÃO
 //TCNTx contador
 //TCCRxA MODO DE OPERAÇÃO
@@ -30,8 +32,18 @@ int main(){
     TIMSK1 |= (1<<OCIE0A); // Interrupção na comparação
     sei(); //habilita a chave de interrupção global
     for(;;){
-       R = adc_read(5);
+       R = adc_filter(5);
        OCR1A = (257*R);
     }
     return 0;
+}
+
+unsigned int adc_filter(unsigned char canal){
+  unsigned long V = 0;
+  unsigned int filter;
+  for(int i = 0; i<3; i++){
+    V += adc_read(canal); 
+  }
+  filter = V/3;
+  return filter;
 }
