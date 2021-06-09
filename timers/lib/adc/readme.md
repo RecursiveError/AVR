@@ -1,0 +1,1 @@
+Lib para a leitura das portas analogicas
