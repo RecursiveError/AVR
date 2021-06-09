@@ -10,7 +10,7 @@ Atualmente o projeto conta com
 - [x] Comunicação Serial
 - [x] Portas ADC
 - [x] Portas PWM
-- [ ] Timers
+- [x] Timers
 - [ ] Interrupções 
 - [ ] Watchdogs
 - [ ] Kernel
