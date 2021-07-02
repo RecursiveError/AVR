@@ -3,7 +3,7 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 6.1.1**
+**V 6.1.2**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -39,7 +39,7 @@ Atualmente o projeto conta com
 ### Portas PWM
 > - PWM: https://youtu.be/opz_oydRdKY
 
-### TIMERS/Interrpções
+### TIMERS/Interrupções
 > - timers: https://youtu.be/hvz0_dEjCEA 
 
 ## Notas adicionais
