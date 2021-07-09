@@ -3,7 +3,6 @@ Autor:RecursiveError
 ----------------------------------------------------------
 Programa para testar software watchdog
 liga um led e gera um deadlock
-apos 3 resets o watchdog liga o led de erro e trava a execução 
 */
 #include <avr/io.h>
 #include <avr/delay.h>
