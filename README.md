@@ -3,7 +3,7 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 6.3.3**
+**V 7.1.1**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -11,10 +11,13 @@ Atualmente o projeto conta com
 - [x] Portas ADC
 - [x] Portas PWM
 - [x] Timers
-- [x] Interrupções 
+- [x] Interrupções
+- [X] Watchdogs 
 - [ ] EEPROM
-- [ ] Watchdogs
+- [ ] Fuse
 - [ ] Kernel
+- [ ] BRTOS
+- [ ] Assembly
 
 
 ## Vídeos dos projetos
