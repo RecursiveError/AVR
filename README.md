@@ -3,7 +3,7 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 7.1.1**
+**V 7.2.1**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -46,7 +46,9 @@ Atualmente o projeto conta com
 ### TIMERS/Interrupções
 > - timers: https://youtu.be/hvz0_dEjCEA 
 > - lcd_clock: https://youtu.be/c_ZehN7GX-A
-
+### WATCHDOGS
+> - soft_watchdog: SEM VIDEO DISPONIVEL (o exemplo apenas pisca um led)
+> - hard_watchdog: SEM VIDEO DISPONIVEL (o exemplo apenas pisca um led)
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
