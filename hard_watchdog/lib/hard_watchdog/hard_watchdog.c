@@ -4,7 +4,7 @@ Programa: Watchdog.c
 
 Uma implementação basica do watchdog do atmel328p
 --------AVISO---------
-AS FUNÇÃES DESSE PROGRAMA DESATIVAM AS INTERRUPÇÕES PARA AVITAR ERROS EM SUA INICIALIZAÇÃO
+AS FUNÇÕES DESSE PROGRAMA DESATIVAM AS INTERRUPÇÕES PARA AVITAR ERROS EM SUA INICIALIZAÇÃO
 */
 
 #include<avr/interrupt.h>
