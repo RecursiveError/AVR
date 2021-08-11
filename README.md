@@ -13,7 +13,7 @@ Atualmente o projeto conta com
 - [x] Timers
 - [x] Interrupções
 - [X] Watchdogs 
-- [ ] EEPROM
+- [X] EEPROM
 - [ ] Fuse
 - [ ] Kernel
 - [ ] BRTOS
@@ -46,9 +46,14 @@ Atualmente o projeto conta com
 ### TIMERS/Interrupções
 > - timers: https://youtu.be/hvz0_dEjCEA 
 > - lcd_clock: https://youtu.be/c_ZehN7GX-A
+
 ### WATCHDOGS
 > - soft_watchdog: SEM VIDEO DISPONIVEL (o exemplo apenas pisca um led)
 > - hard_watchdog: SEM VIDEO DISPONIVEL (o exemplo apenas pisca um led)
+
+### EEPROM
+> - EEPROM: https://youtu.be/7k3nuO6U4ps
+
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
