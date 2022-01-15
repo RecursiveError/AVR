@@ -1,0 +1,1 @@
+aqui ficam arquivos uteis para uso de C++, nada relacionado a embarcados  
