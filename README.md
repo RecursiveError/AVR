@@ -3,7 +3,7 @@
 
 Esse repositorio tem o intuito de documentar meu aprendizado com sistemas embarcados,
 cada subdiretório contém uma biblioteca mais uma prova de conceito de uma funcionalidade básica de um sistema embarcado. 
-**V 7.2.1**
+**V 8.1.1**
 
 Atualmente o projeto conta com
 - [x] IO de portas digitais
@@ -14,8 +14,8 @@ Atualmente o projeto conta com
 - [x] Interrupções
 - [X] Watchdogs 
 - [X] EEPROM
-- [ ] Fuse
-- [ ] Kernel
+<s>Fuse</s>
+- [x] Kernel
 - [ ] BRTOS
 - [ ] Assembly
 
