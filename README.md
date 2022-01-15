@@ -14,7 +14,6 @@ Atualmente o projeto conta com
 - [x] Interrupções
 - [X] Watchdogs 
 - [X] EEPROM
-<s>Fuse</s>
 - [x] Kernel
 - [ ] BRTOS
 - [ ] Assembly
