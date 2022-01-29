@@ -53,6 +53,10 @@ Atualmente o projeto conta com
 ### EEPROM
 > - EEPROM: https://youtu.be/7k3nuO6U4ps
 
+### KERNEL 
+> - Kernel: https://youtu.be/NEEg9Ri2wcM
+> - Kernel_v2: https://youtu.be/vi3EbpojSiA
+
 ## Notas adicionais
 Como esse repositório é apenas para documentar meu aprendizado, resolvi criar essas notas para explicar o que e porque fiz 
 para mim mesmo e para outros que possam estar lendo isso
