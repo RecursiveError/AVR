@@ -7,7 +7,8 @@
 #include <external_int.hpp>
 #include <interrupt.hpp>
 #include <IO.hpp>
-#include <Kernel.hpp>
+//#include <Kernel.hpp>
+#include <Kernel_v2.hpp>
 #include <liquidcrystal.hpp>
 #include <expander_74hc595.hpp>
 #include <usart.hpp>

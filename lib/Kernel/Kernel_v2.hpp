@@ -6,9 +6,10 @@
 Primeira versão de kernel basico para MCUs
  **/
 
-#ifndef KERNEL_HPP
-#define KERNEL_HPP
+#ifndef KERNELV2_HPP
+#define KERNELV2_HPP
 #include <status.hpp>
+
 #include <process.hpp>
 
 namespace core {
